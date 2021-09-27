@@ -1,3 +1,30 @@
 {
-    "teste": "oie"
+    "animais": [
+        {
+            "id": 1,
+            "nome": "Cachorro"
+        },
+        {
+            "id": 2,
+            "nome": "Gato"
+        },
+        {
+            "id": 3,
+            "nome": "Rato"
+        }
+    ],
+    "plantas": [
+        {
+            "id": 1,
+            "nome": "Orquídeas"
+        },
+        {
+            "id": 2,
+            "nome": "Cactos"
+        },
+        {
+            "id": 1,
+            "nome": "Jambeiro"
+        }
+    ]
 }
