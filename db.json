@@ -1,34 +1,29 @@
-{
-    "animais": [
-        {
-            "id": 1,
-            "nome": "Cachorro"
-        },
-        {
-            "id": 2,
-            "nome": "Gato"
-        },
-        {
-            "id": 3,
-            "nome": "Rato"
-        },
-        {
-            "id": 4,
-            "nome": "Coelho"
-        }
-    ],
-    "plantas": [
-        {
-            "id": 1,
-            "nome": "Orquídeas"
-        },
-        {
-            "id": 2,
-            "nome": "Cactos"
-        },
-        {
-            "id": 3,
-            "nome": "Jambeiro"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "nome": "Fazenda Iberê",
+        "shape": "shapefilesssss",
+        "coordenadas": "X:123141 y:124141",
+        "cor": "red",
+        "icone": "fab fa-affiliatetheme",
+        "user": null
+    },
+    {
+        "id": 2,
+        "nome": "Fazenda Flamingo",
+        "shape": "shapefilesssss",
+        "coordenadas": "X:123141 y:124141",
+        "cor": "blue",
+        "icone": "fab fa-d-and-d",
+        "user": null
+    },
+    {
+        "id": 3,
+        "nome": "teste 1",
+        "shape": "shapefilesssss",
+        "coordenadas": "X:123141 y:124141",
+        "cor": "yellow",
+        "icone": "fas fa-fan",
+        "user": null
+    }
+]
