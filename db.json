@@ -6,7 +6,7 @@
         "coordenadas": "X:123141 y:124141",
         "cor": "red",
         "icone": "fab fa-affiliatetheme",
-        "user": ""
+        "user": "",
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "coordenadas": "X:123141 y:124141",
         "cor": "blue",
         "icone": "fab fa-d-and-d",
-        "user": ""
+        "user": "",
     },
     {
         "id": 3,
@@ -24,6 +24,6 @@
         "coordenadas": "X:123141 y:124141",
         "cor": "yellow",
         "icone": "fas fa-fan",
-        "user": ""
+        "user": "",
     }
 ]
